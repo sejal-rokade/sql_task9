@@ -1,0 +1,407 @@
+brand,model,storage,price
+Samsung,Galaxy S21 Ultra,256 GB,1199
+OnePlus,9 Pro,128 GB,899
+Xiaomi,Redmi Note 10 Pro,128 GB,279
+Google,Pixel 6,128 GB,799
+Apple,iPhone 13,128 GB,799
+Samsung,Galaxy Z Flip3,256 GB,999
+Xiaomi,Poco X3 Pro,128 GB,249
+Oppo,Reno6 Pro+ 5G,128 GB,699
+Vivo,X70 Pro+,256 GB,1199
+OnePlus,Nord CE 5G,128 GB,329
+Samsung,Galaxy A52s 5G,128 GB,449
+Realme,GT Neo2,128 GB,329
+Apple,iPhone 12 Mini,64 GB,699
+Oppo,Find X3 Pro,256 GB,1199
+Xiaomi,Mi 11 Lite 5G NE,128 GB,329
+Samsung,Galaxy S21,128 GB,799
+Vivo,Y20s (G),128 GB,199
+Realme,8s 5G,128 GB,299
+Oppo,A94,128 GB,379
+Xiaomi,Redmi 10 Prime,128 GB,179
+Samsung,Galaxy A22 5G,128 GB,279
+Realme,Narzo 50 Pro 5G,128 GB,249
+OnePlus,9,128 GB,729
+Xiaomi,Redmi Note 10 Pro Max,128 GB,279
+Apple,iPhone 11,64 GB,599
+Samsung,Galaxy A03s,32 GB,139
+Oppo,A74 5G,128 GB,299
+Vivo,Y12s (2021),32 GB,139
+Realme,9i,128 GB,189
+Samsung,Galaxy M52 5G,128 GB,449
+Xiaomi,Redmi 10,128 GB,179
+Apple,iPhone SE (2nd Gen),64 GB,399
+Oppo,A53s,128 GB,259
+Vivo,Y33s,128 GB,279
+Realme,C25s,128 GB,159
+Samsung,Galaxy A22 4G,128 GB,229
+OnePlus,Nord 2 5G,128 GB,399
+Xiaomi,Poco M3 Pro 5G,64 GB,199
+Apple,iPhone XR,64 GB,499
+Oppo,A16,64 GB,159
+Realme,C21Y,64 GB,129
+Samsung,Galaxy F22,64 GB,189
+Oppo,F19 Pro+ 5G,128 GB,399
+Xiaomi,Mi 11X,128 GB,529
+Apple,iPhone 12 Mini,64 GB,699
+Vivo,V21e,128 GB,369
+Realme,8 5G,128 GB,199
+Samsung,Galaxy M12,64 GB,159
+Oppo,A16s,64 GB,179
+Xiaomi,Redmi 9 Power,128 GB,189
+Apple,iPhone 11 Pro Max,256 GB,1099
+Vivo,Y20G,64 GB,169
+Realme,Narzo 50i,32 GB,99
+Samsung,Galaxy A52s 5G,128 GB,459
+Oppo,A54,128 GB,239
+Xiaomi,Redmi 9T,128 GB,199
+Apple,iPhone 13 Pro Max,256 GB,1299
+Vivo,Y33,128 GB,249
+Samsung,Galaxy A72,128 GB,429
+Oppo,Reno6 Pro 5G,128 GB,659
+Xiaomi,Poco M3 Pro 5G,64 GB,199
+Apple,iPhone SE (2020),64 GB,399
+Vivo,Y53s,128 GB,269
+Realme,7i,128 GB,239
+Samsung,Galaxy A52 5G,128 GB,449
+Oppo,F19 Pro,128 GB,359
+Xiaomi,Redmi Note 10S,128 GB,229
+Apple,iPhone XR,64 GB,499
+Vivo,Y21s,128 GB,179
+Realme,C25s,128 GB,169
+Samsung,Galaxy A22 5G,128 GB,239
+Oppo,A94,128 GB,329
+Xiaomi,Mi 11 Lite 5G,128 GB,369
+Apple,iPhone 11,128 GB,599
+Vivo,X60 Pro,256 GB,799
+Realme,Narzo 50A,64 GB,139
+Apple,iPhone 13,128GB,799
+Samsung,Galaxy S21,128GB,963
+OnePlus,Nord 2,128GB,595
+Google,Pixel 6,128GB,698
+Xiaomi,Poco X4 Pro,128GB,948
+Realme,GT Master Edition,128GB,818
+Vivo,X70 Pro+,256GB,784
+Oppo,Reno6 Pro+,256GB,504
+Motorola,Edge 20 Pro,256GB,615
+Nokia,XR20,128GB,779
+Sony,Xperia 5 III,128GB,840
+LG,Wing,256GB,698
+Asus,Zenfone 8 Flip,256GB,731
+Blackberry,KEY2 LE,64GB,640
+Samsung,Galaxy A72,128GB,714
+Xiaomi,Redmi Note 10 Pro Max,128GB,917
+Realme,Narzo 50 Pro 5G,128GB,841
+Oppo,F19 Pro+,128GB,860
+Vivo,Y33s,128GB,737
+Motorola,Moto G60,128GB,963
+Nokia,5.4,64GB,937
+LG,K92 5G,128GB,806
+Asus,Zenfone 8,128GB,501
+Blackberry,KEY2,64GB,562
+CAT,S42,32GB,580
+Samsung,Galaxy Z Flip 3,128GB,657
+OnePlus,9 Pro,256GB,942
+Xiaomi,Mi 11 Ultra,256GB,533
+Oppo,A16,32GB,681
+Vivo,Y12A,32GB,633
+Nokia,C20 Plus,32GB,644
+Samsung,Galaxy S20 FE 5G,128GB,948
+Motorola,Moto E7i Power,32GB,799
+Xiaomi,Poco M3 Pro 5G,128GB,575
+Realme,C21Y,64GB,696
+Asus,ROG Phone 5,128GB,755
+LG,Velvet 5G,128GB,948
+Blackberry,Evolve,64GB,933
+Oppo,Reno 6 Pro+,256GB,688
+Samsung,Galaxy A03s,64GB,559
+Xiaomi,Redmi 10 Prime,128GB,928
+Motorola,Moto G50,64GB,978
+Realme,Narzo 50A,64GB,681
+Nokia,G20,64GB,619
+Samsung,Galaxy M32,128GB,529
+Vivo,Y20G,64GB,992
+Asus,Zenfone 8 Flip,128GB,902
+Oppo,A54,128GB,678
+Samsung,Galaxy F22,128GB,735
+Xiaomi,Mi 11 Lite 5G,128GB,969
+Realme,8i,128GB,960
+Nokia,C30,64GB,593
+Samsung,Galaxy A32,128GB,542
+Xiaomi,Redmi Note 10 Pro Max,128GB,518
+Realme,C21Y,64GB,996
+Nokia,XR20,128GB,507
+Samsung,Galaxy A52s 5G,128GB,806
+Vivo,Y33s,128GB,884
+Oppo,A16s,64GB,907
+Motorola,Moto G Stylus 5G,128GB,571
+Xiaomi,Poco M3 Pro 5G,64GB,664
+Realme,GT Neo2,128GB,648
+Nokia,C20 Plus,32GB,616
+Samsung,Galaxy A21s,128GB,841
+Vivo,Y12s,32GB,970
+Oppo,F19s,128GB,662
+Realme,Narzo 30 Pro 5G,128GB,949
+Samsung,Galaxy A03s,32GB,608
+Xiaomi,Redmi 10 Prime,128GB,653
+Motorola,Moto G Pure,32GB,869
+Oppo,Reno6 Z 5G,128GB,682
+Samsung,Galaxy S21 Ultra 5G,256GB,811
+Vivo,Y53s,128GB,982
+Realme,8i,128GB,583
+Nokia,G50,64GB,913
+Xiaomi,Redmi 9 Activ,64GB,810
+Oppo,A54s,128GB,759
+Samsung,Galaxy M22,128GB,821
+Motorola,Moto G Power 2022,128GB,607
+Vivo,Y21s,128GB,803
+Xiaomi,Poco X3 GT,128GB,532
+Samsung,Galaxy F42 5G,128GB,630
+Oppo,A16s,128GB,640
+Vivo,V21e,128GB,738
+Realme,GT Master Edition,128GB,740
+Motorola,Edge 20 Fusion,128GB,970
+Samsung,Galaxy A21s,64GB,945
+Xiaomi,Redmi Note 10S,128GB,957
+Oppo,A74 5G,128GB,516
+Realme,C21,64GB,857
+Samsung,Galaxy M52 5G,128GB,841
+Vivo,V21 5G,128GB,595
+Xiaomi,Redmi Note 9 Pro Max,128GB,784
+Motorola,Moto G Stylus 5G,128GB,561
+Oppo,Reno6 Pro+ 5G,256GB,928
+Realme,Narzo 30 Pro 5G,128GB,575
+Samsung,Galaxy A32,128GB,929
+Xiaomi,Poco X3 Pro,128GB,709
+Realme,C25s,128GB,986
+Motorola,Moto G Power 2021,64GB,834
+Samsung,Galaxy A52s 5G,128GB,583
+Vivo,V21e 5G,128GB,890
+Oppo,A53s 5G,128GB,669
+Realme,GT Neo2,128GB,785
+Samsung,Galaxy M32,128GB,733
+Xiaomi,Mi 11 Lite NE,128GB,808
+Motorola,Moto G Stylus 2021,128GB,748
+Oppo,A54s 5G,128GB,851
+Samsung,Galaxy F41,128GB,640
+Xiaomi,Redmi Note 10 Pro,128GB,854
+Realme,Narzo 50A,128GB,957
+Oppo,A16s,64GB,735
+Samsung,Galaxy M52,128GB,852
+Vivo,V21 5G,128GB,670
+Motorola,Moto G50s,128GB,832
+Samsung,Galaxy A13,64GB,521
+Xiaomi,Redmi 9 Activ,128GB,668
+Realme,7i,128GB,819
+Oppo,A74 5G,128GB,568
+Samsung,Galaxy A42 5G,128GB,819
+Vivo,Y33s,128GB,722
+Motorola,Moto G9 Power Lite,64GB,580
+Realme,C21Y,64GB,666
+Samsung,Galaxy A22,128GB,909
+Xiaomi,Redmi Note 10S,128GB,642
+Oppo,A74,128GB,715
+Samsung,Galaxy A32,128GB,760
+Vivo,Y72 5G,128GB,694
+Motorola,Moto G60,128GB,806
+Xiaomi,Mi 10i,128GB,818
+Realme,Narzo 30 Pro,128GB,521
+Samsung,Galaxy M62,128GB,502
+Oppo,A53s,128GB,692
+Xiaomi,Redmi 10 Prime,128GB,644
+Realme,C25s,128GB,912
+Samsung,Galaxy A12,64GB,851
+Xiaomi,Poco X3 Pro,128GB,717
+Samsung,Galaxy A03s,64GB,870
+Oppo,A15s,64GB,713
+Realme,C11 2021,32GB,520
+Nokia,C30,32GB,899
+Xiaomi,Redmi 9i,64GB,609
+Samsung,Galaxy A22 5G,128GB,841
+Oppo,A53,128GB,790
+Vivo,Y12s,32GB,704
+Xiaomi,Mi 11 Lite 5G,128GB,552
+Realme,7 5G,128GB,634
+Samsung,Galaxy M31s,128GB,713
+Oppo,A15,32GB,564
+Nokia,G10,32GB,715
+Xiaomi,Poco X3 GT,128GB,878
+Realme,C25,64GB,904
+Xiaomi,Redmi Note 10 Pro Max,128GB,841
+Samsung,Galaxy A52 5G,128GB,751
+Oppo,A94,128GB,834
+Vivo,Y33s,128GB,814
+Realme,Narzo 50A,64GB,558
+Nokia,X20,128GB,889
+Xiaomi,Redmi 9 Power,128GB,823
+Samsung,Galaxy M12,64GB,976
+Oppo,A53s,128GB,625
+Vivo,Y20s G,128GB,993
+Realme,C21Y,64GB,648
+Nokia,C20 Plus,32GB,551
+Xiaomi,Redmi 10 Prime,128GB,906
+Oppo,Reno 6 Pro 5G,128GB,695
+Vivo,Y31s,128GB,575
+Realme,8 5G,128GB,824
+Nokia,G20,64GB,992
+Xiaomi,Poco X3 Pro,128GB,731
+Samsung,Galaxy A32 5G,128GB,827
+Oppo,A16,32GB,561
+Vivo,V21 5G,128GB,620
+Realme,C11 2021,32GB,989
+Nokia,5.4,128GB,725
+Xiaomi,Redmi Note 10,64GB,862
+Samsung,Galaxy F41,64GB,943
+Oppo,A54,128GB,812
+Vivo,V20 SE,128GB,903
+Nokia,3.4,64GB,714
+Xiaomi,Redmi Note 9 Pro Max,64GB,758
+Samsung,Galaxy M31s,128GB,956
+Oppo,A54,128GB,815
+Vivo,Y12s,32GB,650
+Realme,C20,32GB,625
+Nokia,1.4,32GB,622
+Xiaomi,Redmi 9 Power,64GB,650
+Samsung,Galaxy A02s,32GB,762
+Oppo,A15s,64GB,907
+Vivo,Y51A,128GB,906
+Realme,Narzo 20,64GB,713
+Nokia,5.3,64GB,950
+Xiaomi,Redmi Note 8,64GB,987
+Samsung,Galaxy M11,32GB,854
+Oppo,A54,64GB,678
+Vivo,Y20s,128GB,772
+Realme,C11,32GB,676
+Nokia,2.4,32GB,618
+Xiaomi,Redmi 9,64GB,652
+Samsung,Galaxy A11,32GB,683
+Oppo,A12,64GB,949
+Vivo,Y20G,128GB,965
+Realme,C15,64GB,801
+Nokia,3.1 Plus,32GB,940
+Xiaomi,Redmi Note 7,64GB,911
+Samsung,Galaxy A12,64GB,768
+Oppo,A31,128GB,637
+Vivo,Y15,64GB,688
+Realme,Narzo 10A,32GB,589
+Xiaomi,Redmi 9T,128GB,831
+Samsung,Galaxy A30s,64GB,760
+Samsung,Galaxy Note 20 Ultra,256,860
+Apple,iPhone SE (2020),64,963
+Xiaomi,Poco X3 Pro,128,934
+Google,Pixel 5,128,842
+Huawei,Mate 40 Pro,256,623
+OnePlus,Nord N10 5G,128,581
+Oppo,Reno 5 Pro 5G,128,730
+Samsung,Galaxy A71,128,752
+Nokia,8.3 5G,128,991
+Apple,iPhone 11 Pro Max,512,697
+Xiaomi,Mi 11,256,604
+Motorola,Moto G Power (2021),64,597
+Google,Pixel 4a 5G,128,557
+Huawei,Nova 8 Pro 5G,128,913
+Samsung,Galaxy A52,128,628
+OnePlus,8T,256,980
+Xiaomi,Redmi 9,64,811
+Apple,iPhone 13,128,546
+Oppo,A15s,64,701
+Nokia,G50 5G,128,765
+Apple,iPhone XR,64,765
+Samsung,Galaxy S21 Ultra 5G,256,930
+Xiaomi,Redmi Note 10 Pro,128,573
+Oppo,Find X3 Neo 5G,256,821
+Huawei,P40 Pro,256,782
+OnePlus,9 Pro,256,707
+Motorola,Moto G Stylus (2021),128,795
+Google,Pixel 4,128,541
+Samsung,Galaxy A12,128,569
+Nokia,5.4,64,667
+Apple,iPhone 12,128,630
+Xiaomi,Redmi 10,128,700
+Oppo,A94 5G,128,501
+Huawei,Nova 9 Pro 5G,256,609
+Samsung,Galaxy S10 Lite,128,932
+OnePlus,8 Pro,256,967
+Nokia,7.2,128,981
+Xiaomi,Mi 10T Pro,256,844
+Apple,iPhone 11,64,737
+Oppo,F19 Pro+ 5G,128,644
+Motorola,Moto G Power (2021),64,675
+Samsung,Galaxy A71,128,584
+Huawei,Mate 30 Pro 5G,256,622
+Xiaomi,Poco X3 Pro,128,690
+Google,Pixel 5,128,728
+Apple,iPhone SE (2020),64,785
+Samsung,Galaxy M51,128,693
+Oppo,Reno4 Pro 5G,256,874
+Nokia,3.4,64,757
+Motorola,Moto G9 Plus,128,605
+Apple,iPhone XS Max,256,684
+Samsung,Galaxy A32 5G,128,945
+Xiaomi,Redmi Note 9S,128,642
+Oppo,A92,128,530
+Huawei,P30 Pro,256,883
+Samsung,Galaxy S20 FE 5G,128,711
+OnePlus,7 Pro,256,929
+Nokia,6.2,128,593
+Xiaomi,Mi 10T Lite,128,566
+Apple,iPhone 8 Plus,64,728
+Oppo,A53,128,687
+Motorola,Moto G8 Power,64,649
+Huawei,Nova 7i,128,735
+Samsung,Galaxy S21+ 5G,256,779
+Xiaomi,Mi 11 Lite,128,734
+Nokia,8.3 5G,128,843
+OnePlus,Nord,128,653
+Apple,iPhone XR,64,571
+Samsung,Galaxy A12,128,865
+Oppo,A94 5G,128,837
+Xiaomi,Redmi 9T,128,513
+Motorola,Moto G10,128,773
+Samsung,Galaxy A52 5G,128,959
+Huawei,P40 Pro+,512,663
+Apple,iPhone 11 Pro Max,64,842
+Samsung,Galaxy Note20 5G,256,571
+Xiaomi,Poco M3,128,583
+Nokia,5.4,64,741
+Oppo,Find X3 Neo 5G,256,562
+Samsung,Galaxy S20 Ultra 5G,512,573
+Xiaomi,Redmi Note 9S,128,633
+Apple,iPhone 12 mini,256,875
+Samsung,Galaxy A21s,128,773
+OnePlus,9,128,702
+Motorola,Moto G9 Power,128,621
+Samsung,Galaxy Z Fold2 5G,256,577
+Xiaomi,Mi 10T Pro 5G,128,859
+Oppo,Reno4 Pro 5G,256,706
+Huawei,P40 Pro,256,530
+Samsung,Galaxy S20 FE 5G,128,557
+Nokia,2.4,32,943
+Apple,iPhone SE (2020),128,729
+Xiaomi,Redmi 9C,64,826
+Samsung,Galaxy A32 5G,128,894
+OnePlus,Nord N10 5G,128,587
+Huawei,Y7p,64,900
+Apple,iPhone 12 Pro,128,685
+Samsung,Galaxy A42 5G,128,526
+Xiaomi,Redmi Note 10 Pro,128,677
+Samsung,Galaxy S21,128,578
+Apple,iPhone 11,128,590
+Xiaomi,Redmi 9T,128,694
+Google,Pixel 5,128,688
+Huawei,Nova 7i,128,901
+Samsung,Galaxy S20 Ultra 5G,128,580
+OnePlus,8T,128,768
+Motorola,Moto G8 Power,64,988
+Realme,7,128,689
+Apple,iPhone XR,128,642
+Xiaomi,Poco M3,128,619
+Samsung,Galaxy A52 5G,128,833
+Oppo,A93,128,882
+Motorola,Moto G Pro,128,992
+Huawei,P30 Lite,128,531
+Samsung,Galaxy Note20 5G,128,918
+Xiaomi,Mi 10 Lite 5G,128,957
+Apple,iPhone 12 Pro Max,128,619
+Oppo,Reno3,128,553
+Samsung,Galaxy S10 Lite,128,965
